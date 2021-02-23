@@ -137,4 +137,3 @@ CSRF_COOKIE_SECURE = True
 
 # Activate Django-Heroku.
 django_heroku.settings(locals())
-
